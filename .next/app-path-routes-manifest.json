@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/careers/page": "/careers",
+  "/contact/page": "/contact",
+  "/events/page": "/events",
+  "/industrial-relations/page": "/industrial-relations",
+  "/knowledge-center/page": "/knowledge-center",
+  "/login/page": "/login",
+  "/membership/directory/page": "/membership/directory",
+  "/membership/page": "/membership",
+  "/page": "/"
+}
